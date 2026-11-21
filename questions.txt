@@ -1,0 +1,13 @@
+1. If a movie script is written 3 years before its release date, list 10 newest movie titles in a descending order by year
+and the year its script would be written.
+2. List all of the Star Wars movies released until this year chronologically assuming that their titles start with 'Star Wars'.
+3. Find people born between 1974 and 1978, but not in 1976. Skipping the first 40 people, list 50 people names and birth year. 
+4. How would you delete all of the movies from the database that will be released after this year? 
+5. Find out the average rating rounded to 2 decimal places of Christopher Nolan's films assuming that there is only one 'Christopher Nolan'.
+6. List all of the directors names that have directed more than 100 movies and the number of movies they directed.
+7. List all of the movies which Johnny Depp and Helena Bonham Carter have both starred in.
+8. How would you rename the column 'birth' in the 'people' table to 'birth_year'?
+9. Why should we use callback functions when interacting with a database via SQL queries?
+10. List all movie titles that Zendaya has starred in that have a higher than average rating. Assume that there is only one 'Zendaya'.
+11. How might the query for the 3rd page look on your web application if you were showing all of the movies released in 2010, 20 results per page?
+12. What are the differences between database migrations and transactions?

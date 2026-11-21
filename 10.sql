@@ -1,0 +1,4 @@
+SELECT DISTINCT name FROM people
+LEFT JOIN directors ON people.id = directors.person_id
+LEFT JOIN ratings ON directors.movie_id = ratings.movie_id
+WHERE ratings.rating >= '9.0';
